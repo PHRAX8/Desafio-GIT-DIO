@@ -1,6 +1,6 @@
-#Anotações
+# Anotações
 
-##Comandos
+## Comandos
 
 - git config
 - git init
@@ -10,3 +10,7 @@
 - git status
 - git push
 - git pull
+
+## Flags
+
+- -m(git commit) 
